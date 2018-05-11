@@ -98,7 +98,7 @@ p{
   }
 
   div.about{
-      height: 100vh;
+    height: 100vh;
   }
 }
 
@@ -133,7 +133,9 @@ div.about{
   display: flex;
   flex-direction: column;
   width: 100%;
-height: auto;
+  height: auto;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 img{
